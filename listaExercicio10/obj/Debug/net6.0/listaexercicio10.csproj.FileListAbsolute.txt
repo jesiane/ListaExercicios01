@@ -1,0 +1,15 @@
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\bin\Debug\net6.0\listaexercicio10.exe
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\bin\Debug\net6.0\listaexercicio10.deps.json
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\bin\Debug\net6.0\listaexercicio10.runtimeconfig.json
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\bin\Debug\net6.0\listaexercicio10.dll
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\bin\Debug\net6.0\listaexercicio10.pdb
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.csproj.AssemblyReference.cache
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.AssemblyInfoInputs.cache
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.AssemblyInfo.cs
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.csproj.CoreCompileInputs.cache
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.dll
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\refint\listaexercicio10.dll
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.pdb
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\listaexercicio10.genruntimeconfig.cache
+C:\Users\jesi1\OneDrive\Documentos\Projetos\AcademiaProgramador\exercicios01\listaexercicio10\obj\Debug\net6.0\ref\listaexercicio10.dll
