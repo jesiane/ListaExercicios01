@@ -7,15 +7,13 @@ namespace listaExercicio21
         static void Main(string[] args)
         {
             Console.Clear();
-            int a;
-            int b;
-            int resultado;
+           int resultado;
 
             Console.Write("Digite o valor de A: ");
-            a = int.Parse(Console.ReadLine());
+            int a = int.Parse(Console.ReadLine());
 
             Console.Write("Digite o valor de B: ");
-            b = int.Parse(Console.ReadLine());
+            int b = int.Parse(Console.ReadLine());
 
             if (a == b)
             {
