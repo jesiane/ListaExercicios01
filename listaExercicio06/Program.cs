@@ -11,13 +11,9 @@ namespace listaExercicio06
 
             double temperatura = Convert.ToDouble(strTemperatura);
 
-            //Para converter graus Fahrenheit em graus Celsius, subtraia 32 e divida por 1,8
-
-           // double fahrenheit = (temperatura + 32) * 5 / 9;
-
-            double fahrenheit = (temperatura + 32) * 1.8;
-
-            Console.WriteLine("A temperatura Celsius " + temperatura + " em Fahrenheit é " + fahrenheit);
+            double fahrenheit = (temperatura * 9 / 5) + 32;
+            
+            Console.WriteLine("A temperatura Celsius " + temperatura + "°C em Fahrenheit é " + fahrenheit +"°f");
         }
     }
 }

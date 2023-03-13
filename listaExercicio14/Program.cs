@@ -7,7 +7,7 @@ namespace listaExercicio14
         {
             Console.Clear();
 
-            Console.WriteLine("Dias Vividos \n");
+            Console.WriteLine("\r Calculadora de dias Vividos \n");
 
             Console.Write("Digite o seu nome: ");
             string nome = Console.ReadLine();
@@ -17,7 +17,8 @@ namespace listaExercicio14
 
             int diasVida = idade * 365;
 
-            Console.WriteLine($"\n{nome.ToUpper()}, você ja viveu {diasVida} dias.");
+          //  Console.WriteLine($"\n{nome.ToUpper()}, você ja viveu {diasVida} dias.");
+          Console.WriteLine(nome + " você ja viveu " + diasVida+ " dias.");
 
             Console.ReadKey();
         }

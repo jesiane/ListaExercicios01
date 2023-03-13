@@ -5,6 +5,7 @@ namespace listaExercicio23
     {
         static void Main(string[] args)
         {
+           
             Console.Clear();
             Console.WriteLine("Números ímpares entre 100 e 200:");
 

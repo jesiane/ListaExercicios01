@@ -31,6 +31,10 @@ namespace listaExercicio13
             Console.WriteLine($"\nA arrecadação total foi de R$ {arrecadacaoTotal:F2}.");
             Console.WriteLine($"O valor a ser guardado na poupança é de R$ {poupanca:F2}.");
 
+            Console.WriteLine();
+
+            Console.WriteLine("\r A arrecadação total foi de " + String.Format("{0:C}", arrecadacaoTotal) + "\n" +
+                "e o valor a ser guardado na poupança é de " + String.Format("{0:C}", poupanca));
             Console.ReadKey();
         }
     }

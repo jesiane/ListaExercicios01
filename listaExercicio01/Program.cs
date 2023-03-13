@@ -7,23 +7,23 @@ namespace listaExercicios01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\n Digite o comprimento");
+            Console.WriteLine("\n Digite o comprimento da caixa");
 
 
             double comprimento = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o altura");
+            Console.WriteLine("Digite o altura da caixa");
 
             double altura = double.Parse(Console.ReadLine());
 
-            Console.WriteLine("Digite o largura");
+            Console.WriteLine("Digite o largura da caixa");
 
             double largura = double.Parse(Console.ReadLine());
 
             double volume = comprimento * altura * largura;
 
             Console.WriteLine("O volume da caixa é: " + volume);
-
+            Console.ReadLine();
         }
     }
 }

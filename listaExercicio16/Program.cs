@@ -19,6 +19,12 @@ namespace listaExercicio16
             Console.WriteLine($"Salário com aumento de 15%: R$ {salarioAumentado:F2}");
             Console.WriteLine($"Salário final com desconto de imposto de 8%: R$ {salarioFinal:F2}");
 
+            Console.WriteLine();
+            //OUTRO TIPO DE FORMATAÇÃO
+
+            Console.WriteLine("O salário inicial é " + String.Format("{0:C}", salario) + "\n" + 
+                "o aumento é de " + String.Format("{0:C}", salarioAumentado) + "\n" +
+                "o valor do salario com desconto de 8% é" + String.Format("{0:C}", salarioFinal));
             Console.ReadKey();
         }
     }

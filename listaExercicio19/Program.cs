@@ -8,6 +8,8 @@ peso e a altura de um adulto e mostre sua condição de acordo com a listagem ab
  Entre 25 e 30
  Acima do peso
  Acima de 30 obeso*/
+
+//não esquecer a virgula na altura
 namespace listaExercicio19
 {
     public class Program
@@ -21,9 +23,9 @@ namespace listaExercicio19
             Console.Write("Digite a altura em metros: ");
             double altura = double.Parse(Console.ReadLine());
 
-            double imc = peso / (altura * altura);
+            double imc = (peso / (altura * altura));
 
-            Console.WriteLine($"\nIMC = {imc:F2}");
+            Console.WriteLine($"\nIMC = {imc}");
 
             if (imc < 18.5)
             {

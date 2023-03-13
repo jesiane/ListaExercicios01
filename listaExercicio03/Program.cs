@@ -18,8 +18,8 @@ namespace listaExercicio03
             double altura = Convert.ToDouble(strAltura);
 
             double volume = Math.PI * raio * raio * altura;
-            Console.WriteLine("O valor do volume: " + volume);
-            Console.WriteLine();
+            Console.WriteLine("\r O valor do volume: " + volume);
+            Console.ReadLine();
         }
     }
 }

@@ -27,17 +27,11 @@ namespace listaExercicio04
 
             double iniCombustivel = Convert.ToDouble(strIniCombustivel);
 
-            Console.WriteLine("Digite o valor de combustivel final ");
-
-            String strFimCombustivel = Console.ReadLine();
-
-            double fimCombustivel = Convert.ToDouble(strFimCombustivel);
-
             double distancia = kmfim - kmini;
-            double consumo = fimCombustivel - iniCombustivel;
-            double consumoPorKm = distancia / consumo;
+            double consumoPorKm = distancia / distancia;
             
-            Console.WriteLine("A distancia percorida foi de " + distancia + " e o consumo de gasolina por km foi de " +  consumoPorKm);
+            Console.WriteLine("A distancia percorida foi de " + distancia + " e o consumo de gasolina por km foi de \n " +  consumoPorKm);
+            Console.WriteLine();
         }
     }
 }
