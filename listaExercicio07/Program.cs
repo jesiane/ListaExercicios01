@@ -25,6 +25,9 @@ namespace listaExercicio07
             Console.WriteLine("O funcionario " + nomeFunc + " teve um total de " + totalVendas + " vendas, recebendo de comissão o valor de R$ " +
                 + comissao +" tendo o salario total de vendedor no valor de " + salariofinal);
 
+            //Outra formatação
+            
+            Console.WriteLine($"O funcionario {nomeFunc} teve um total de {totalVendas} vendas, recebendo de comissão o valor de R$ {comissao} tendo o salario total de vendedor no valor de {salariofinal}.");
             
 
 
